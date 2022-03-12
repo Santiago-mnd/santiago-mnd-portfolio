@@ -24,7 +24,7 @@
 </svelte:head>
 
 <div class="mx-auto max-w-7xl animate__animated animate__fadeIn">
-	<h2 class="text-xl md:text-4xl">Últimos proyectos:</h2>
+	<h2 class="text-2xl md:text-4xl">Últimos proyectos:</h2>
 
 	<div class="grid md:grid-cols-2 md:gap-6 xl:grid-cols-3 justify-center">
 		<ShowPort {projects} />

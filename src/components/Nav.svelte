@@ -20,7 +20,7 @@
 	};
 </script>
 
-<div class="navbar bg-base-100 mb-40 shadow-xl rounded-box lg:hidden">
+<div class="navbar bg-base-100 shadow-xl rounded-box sm:max-w-xs lg:hidden">
 	<div class="navbar-start">
 		<div class="dropdown">
 			<button class="btn btn-ghost btn-circle">
@@ -40,7 +40,7 @@
 			</button>
 			<ul
 				tabindex="0"
-				class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
+				class="menu menu-compact dropdown-content p-2 shadow bg-base-100 rounded-box w-52"
 			>
 				<li><a href="/projects">Portfolio</a></li>
 				<li>
