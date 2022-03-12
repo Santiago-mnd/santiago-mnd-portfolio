@@ -11,7 +11,7 @@
 		class="transition duration-150 ease-linear hover:scale-110 mt-5 animate__animated animate__fadeIn"
 	>
 		<div
-			class="card w-96 h-full bg-base-200 shadow-xl mt-5 transition duration-150 ease-linear hover:shadow-2xl"
+			class="card  h-full bg-base-200 shadow-xl mt-5 lg:w-96 transition duration-150 ease-linear hover:shadow-2xl"
 		>
 			<figure><img src={project.image} alt={project.title} /></figure>
 			<div class="card-body">
